@@ -4,7 +4,7 @@
 
 ## About
 
-This repository is for our branching and merge conflict activity.
+Our course is about using Github's collaboration tool, our section is 9-Sodium, and our adviser is Kyle Enorio.
 
 ## Contact
 
