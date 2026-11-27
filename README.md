@@ -4,7 +4,7 @@
 
 ## About
 
-This repository is for our branching and merge conflict activity.
+I am a grade 9 student who is currently using the GitHub collaboration tool
 
 ## Contact
 
