@@ -19,6 +19,12 @@ Our course is about using Github's collaboration tool, our section is 9-Sodium, 
 - **GitHub** for repository hosting and pull requests
 - **VS Code** for editing Markdown files
 - **Messenger** for quick team check-ins  
+## Scheduled Meetings
+
+| Day | Time | Focus / Notes |
+| :--- | :--- | :--- |
+| **Saturday** | 1:00 PM – 4:00 PM | Collaboration session |
+| **Sunday** | 3:00 PM – 7:00 PM | Collaboration session |
 
 ## Contact
 
