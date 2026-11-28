@@ -17,7 +17,7 @@ Our course is about using Github's collaboration tool, our section is 9-Sodium, 
 ## Tools We Use
 - **GitHub** for repository hosting and pull requests
 - **VS Code** for editing Markdown files
-- **Messenger** for quick team check-ins
+- **Messenger** for quick team check-ins  
 
 ## Contact
 
