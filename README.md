@@ -2,6 +2,15 @@
 
 # Gharianne Francey A. Epistola, Gabrielle Cataluna
 
+## Table of Contents
+
+- [About](#about)
+- [Members](#members)
+- [Tools We Use](#tools-we-use)
+- [Scheduled Meetings](#scheduled-meetings)
+- [Contact](#contact)
+- [Learning Goals](#learning-goals)
+
 ## About
 
 I am a grade 9 student who is currently using the GitHub collaboration tool
