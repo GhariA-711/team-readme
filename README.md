@@ -14,6 +14,10 @@ Our course is about using Github's collaboration tool, our section is 9-Sodium, 
 | Gharianne Francey A. Epistola | Owner | https://github.com/GhariA-711 |
 | Gabrielle January Cataluna | Collaborator | https://github.com/gabjancataluna |
 
+## Tools We Use
+- **GitHub** for repository hosting and pull requests
+- **VS Code** for editing Markdown files
+- **Messenger** for quick team check-ins
 
 ## Contact
 
