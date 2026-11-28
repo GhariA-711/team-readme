@@ -14,6 +14,12 @@ Our course is about using Github's collaboration tool, our section is 9-Sodium, 
 | Gharianne Francey A. Epistola | Owner | https://github.com/GhariA-711 |
 | Gabrielle January Cataluna | Collaborator | https://github.com/gabjancataluna |
 
+## Scheduled Meetings
+
+| Day | Time | Focus / Notes |
+| :--- | :--- | :--- |
+| **Saturday** | 1:00 PM – 4:00 PM | Collaboration session |
+| **Sunday** | 3:00 PM – 7:00 PM | Collaboration session |
 
 ## Contact
 
